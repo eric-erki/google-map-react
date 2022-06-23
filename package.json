@@ -76,7 +76,7 @@
     "expect": "^1.11.1",
     "file-loader": "^0.8.5",
     "husky": "^0.13.3",
-    "jsdom": "^6.5.1",
+    "jsdom": "^16.5.0",
     "kotatsu": "^0.14.0",
     "lint-staged": "^3.4.0",
     "mocha": "^2.3.3",
